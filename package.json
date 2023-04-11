@@ -1,0 +1,11 @@
+{
+  "name": "helmet-export-repro",
+  "private": true,
+  "dependencies": {
+    "helmet": "^6.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "typescript": "^5.0.4"
+  }
+}
